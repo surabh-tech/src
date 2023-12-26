@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title>UpConstruction Bootstrap Template - Contact</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -28,37 +27,28 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: UpConstruction
-  * Updated: Sep 18 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
 
-  <!-- ======= Header ======= -->
-    <?php include("header.php")?>
+  <!-- Header Section -->
+  <?php include("header.php")?>
 
+  <!-- Main Section -->
   <main id="main">
 
-    <!-- ======= Breadcrumbs ======= -->
+    <!-- Breadcrumbs Section -->
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
-
         <h2>Contact</h2>
         <ol>
           <li><a href="index.html">Home</a></li>
           <li>Contact</li>
         </ol>
-
       </div>
     </div><!-- End Breadcrumbs -->
 
-    <!-- ======= Contact Section ======= -->
+    <!-- Contact Section -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -86,14 +76,13 @@
               <p>+1 5589 55488 55</p>
             </div>
           </div><!-- End Info Item -->
-
         </div>
 
         <div class="row gy-4 mt-1">
-
           <div class="col-lg-6 ">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
-          </div><!-- End Google Maps -->
+            <!-- Replace the existing iframe with the one from your link -->
+            <iframe src="https://maps.app.goo.gl/jaNjwDeQDvDUQ5Ug6" width="100%" height="384" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div>
 
           <div class="col-lg-6">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
@@ -127,9 +116,8 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+  <!-- Footer Section -->
   <?php include("footer.php");?>
-  <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

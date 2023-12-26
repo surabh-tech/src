@@ -34,7 +34,7 @@
           </div>
         </div><!-- End footer info column-->
 
-        <div class="col-lg-4 col-md-6 ml-auto">
+        <div class="col-lg-4 col-md-6 d-flex justify-content-center">
           <!-- Move this column to the right -->
           <div class="footer-links">
             <h4>Useful Links</h4>
