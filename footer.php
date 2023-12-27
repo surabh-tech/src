@@ -24,7 +24,7 @@
 
         <div class="col-lg-4 col-md-6">
           <div class="footer-info">
-            <h3><span><h6>Jalana</h6></span></h3>
+            <h3><span><h6>Jalna</h6></span></h3>
             <p>
               Shop No. 26, Krishna Arcade,<br>
               Beside Prayag Hospital,Station Road, Old Jalna, Jalna, Pin- 431203<br><br>

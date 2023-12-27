@@ -52,8 +52,9 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">Welcome to <span>SrConsultant</span></h2>
-            <p data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h2 >Welcome to S R Consultant</h2>
+            <p data-aos="fade-up">We are a team of civil engineers and architects performing a superior standard of work. We are engaged in Project Management Consultancy, Structural Engineering Services, Architectural Planning, Structural Audit & Retrofitting ,Valuation and Proof checking.
+.</p>
             <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>
@@ -92,16 +93,16 @@
             <div class="content">
               <h3>We Apply Advanced Technologies
 For Relevant Conditions.</h3>
-              <p>ROur Aim is To Reach Perfection
+              <p>Our Aim is To Reach Perfection
 & We Chase To Reach Excellence..
-              <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+              <p>From groundbreaking concepts to impeccable execution, we're here to turn your vision into reality. Request a quote now and elevate your projects with our expertise. Your engineering triumph begins with us.</p>
             </div>
           </div>
 
           <div class="col-lg-5" data-aos="fade">
             <form action="forms/quote.php" method="post" class="php-email-form">
               <h3>Get a quote</h3>
-              <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
+              <p>Your vision, our expertise – together, we build the future. Request a quote today and take the first step towards realizing your infrastructure dreams."</p>
               <div class="row gy-3">
 
                 <div class="col-md-12">
@@ -143,7 +144,7 @@ For Relevant Conditions.</h3>
 
         <div class="section-header">
           <h2>Constructions</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+          <p>Crafting Dreams into Concrete Realities</p>
         </div>
 
         <div class="row gy-4">
@@ -156,8 +157,8 @@ For Relevant Conditions.</h3>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                    <h4 class="card-title">Passion for Precision</h4>
+                    <p>We approach every project with an artist's eye and an engineer's precision, ensuring that every brick laid resonates with quality.</p>
                   </div>
                 </div>
               </div>
@@ -172,8 +173,8 @@ For Relevant Conditions.</h3>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                    <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                    <h4 class="card-title">Innovation at Core</h4>
+                    <p>Embrace the future of construction with us. We integrate cutting-edge technologies, setting new standards for efficiency and sustainability.</p>
                   </div>
                 </div>
               </div>
@@ -188,14 +189,14 @@ For Relevant Conditions.</h3>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Error beatae dolor inventore aut</h4>
-                    <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
+                    <h4 class="card-title">Machinery Marvels</h4>
+                    <p> Immerse yourself in the power and grace of cutting-edge construction machinery. Every post showcases the artistry behind the build.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div><!-- End Card Item -->
-
+  
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card-item">
               <div class="row">
@@ -204,8 +205,8 @@ For Relevant Conditions.</h3>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-                    <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+                    <h4 class="card-title">Timely Triumphs:</h4>
+                    <p> Punctuality is our virtue. We understand the significance of timelines and deliver results that exceed expectations..</p>
                   </div>
                 </div>
               </div>
@@ -220,12 +221,10 @@ For Relevant Conditions.</h3>
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
+      <div class="section-header">
           <h2>Services</h2>
           <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
         </div>
-
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
@@ -233,9 +232,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-mountain-city"></i>
               </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>RCC Buildings</h3>
+              <p>In the construction trade, when we say concrete, we mean reinforced concrete. The full name is concrete reinforced cement or RCC construction. RCC (Reinforced concrete) is concrete containing steel bars or rebars, called reinforcing bars..</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -244,9 +243,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-arrow-up-from-ground-water"></i>
               </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>Steel Structures</h3>
+              <p>The steel structure is a structure mainly made of steel, and it is one of the main types of building structures. The characteristics of steel are high strength, lightweight, excellent overall rigidity, and strong deformability. So it is especially suitable for large-span, super-high and super-heavy buildings. The steel structure is a steel beam, steel column, steel truss, and other components made of section steel and steel plate, and welds, bolts, or rivets connect each component or part.</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -255,9 +254,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-compass-drafting"></i>
               </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>Masonry Structures</h3>
+              <p>There are essentially two approaches to the investigation and assessment of masonry structures. The first involves basic, low-tech methods, while the second uses much more sophisticated, and therefore more expensive, techniques. This article looks mainly at the less expensive methods available. It also looks briefly at the questions raised by investigative work and where to go for further help.</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -266,9 +265,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-trowel-bricks"></i>
               </div>
-              <h3>Asperiores Commodit</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>Structural Audit</h3>
+              <p>Our Structural engineers are experts in creating sturdy frameworks onto which structures are built. The team possesses innate knowledge of all the integrated parameters of a sound structural design encompassing the stability, strength, and rigidity of the structure. Having designed many renowned structures across various sectors, the team has reached new heights of expertise in engineering design and structural analysis.</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -277,9 +276,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-helmet-safety"></i>
               </div>
-              <h3>Velit Doloremque</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>Architectural Planning</h3>
+              <p>Our vibrant team of Architects creates intelligent and sustainable designs in the arena of Urban Design, Residential, Commercial, Hospitality and Institutional. The team also has an exceptional knack for interior designs of various kinds & magnitudes of structures.</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -288,9 +287,9 @@ For Relevant Conditions.</h3>
               <div class="icon">
                 <i class="fa-solid fa-arrow-up-from-ground-water"></i>
               </div>
-              <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <h3>Project Management</h3>
+              <p>We have an extremely competent team of Project Managers who are so well-equipped with rich knowledge & experience that enables them to provide expert project management advice and expert suggestions to the clients. With their expertise, our PMs face various challenges with the utmost professionalism; which involve challenges pertaining to Designs, Constructability, Long lead material, Inter Contractor Coordination, Engineering, Safety, etc</p>
+              <a href="contact.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 

@@ -57,7 +57,8 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Ramji", H. No. 5-3-30,<p>
+Behind Gurudwara, New Usmanpura,<p> Aurangabad, Maharashtra 431005</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -65,7 +66,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <p>srconsultant@yahoo.com</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -73,7 +74,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+91 70204 01089</p>
             </div>
           </div><!-- End Info Item -->
         </div>
@@ -81,7 +82,10 @@
         <div class="row gy-4 mt-1">
           <div class="col-lg-6 ">
             <!-- Replace the existing iframe with the one from your link -->
-            <iframe src="https://maps.app.goo.gl/jaNjwDeQDvDUQ5Ug6" width="100%" height="384" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <div class="col-lg-6">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d938.0862318375866!2d75.32625010793456!3d19.867651930405394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb98645645707d%3A0x69f55a3c4450c3b6!2sS%20R%20Consultant!5e0!3m2!1sen!2sin!4v1703599502990!5m2!1sen!2sin" width="550" height="395" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+
           </div>
 
           <div class="col-lg-6">
