@@ -135,7 +135,53 @@
       </div>
     </section><!-- End Services Section -->
 
+    <section id="alt-services" class="alt-services">
+      <div class="container" data-aos="fade-up">
 
+        <div class="row justify-content-around gy-4">
+          <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+
+          <div class="col-lg-5 d-flex flex-column justify-content-center">
+            <h3>At S R CONSULTANT</h3>
+            <p>Our commitment to excellence is woven into every service we provide. Explore a world of unparalleled quality and innovation with our golden line of offerings</p>
+
+            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+              <i class="bi bi-easel flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Architectural Brilliance</a></h4>
+                <p> Immerse yourself in the artistry of architectural design. Our experts craft spaces that harmonize aesthetics, functionality, and sustainability.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+              <i class="bi bi-patch-check flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Engineering Precision:</a></h4>
+                <p>Experience the power of precision. From structural engineering to infrastructure development, our team ensures every project stands tall with strength and resilience.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+              <i class="bi bi-brightness-high flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Innovative Solutions:</a></h4>
+                <p> Embrace forward-thinking solutions. We integrate cutting-edge technologies, ensuring your projects are at the forefront of industry advancements</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+              <i class="bi bi-brightness-high flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Construction Mastery</a></h4>
+                <p>Witness the magic of construction unfold. Our seasoned professionals bring blueprints to life, creating landmarks that stand as testaments to our craftsmanship.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+          </div>
+        </div>
+
+      </div>
+    </section>
 
     <!-- ======= Alt Services Section 2 ======= 
     <section id="alt-services-2" class="alt-services section-bg">

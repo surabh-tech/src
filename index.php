@@ -196,7 +196,7 @@ For Relevant Conditions.</h3>
               </div>
             </div>
           </div><!-- End Card Item -->
-  
+
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card-item">
               <div class="row">
@@ -223,7 +223,7 @@ For Relevant Conditions.</h3>
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>Services</h2>
-          <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
+          <p>Exceptional Services, Unrivaled Expertise ✨</p>
         </div>
         <div class="row gy-4">
 
@@ -306,38 +306,38 @@ For Relevant Conditions.</h3>
           <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+            <h3>At S R CONSULTANT</h3>
+            <p>Our commitment to excellence is woven into every service we provide. Explore a world of unparalleled quality and innovation with our golden line of offerings</p>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <h4><a href="" class="stretched-link">Architectural Brilliance</a></h4>
+                <p> Immerse yourself in the artistry of architectural design. Our experts craft spaces that harmonize aesthetics, functionality, and sustainability.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                <h4><a href="" class="stretched-link">Engineering Precision:</a></h4>
+                <p>Experience the power of precision. From structural engineering to infrastructure development, our team ensures every project stands tall with strength and resilience.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                <h4><a href="" class="stretched-link">Innovative Solutions:</a></h4>
+                <p> Embrace forward-thinking solutions. We integrate cutting-edge technologies, ensuring your projects are at the forefront of industry advancements</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                <h4><a href="" class="stretched-link">Construction Mastery</a></h4>
+                <p>Witness the magic of construction unfold. Our seasoned professionals bring blueprints to life, creating landmarks that stand as testaments to our craftsmanship.</p>
               </div>
             </div><!-- End Icon Box -->
 

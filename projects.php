@@ -41,7 +41,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <?php include("header.php"); ?> 
+  <?php include("header.php") ;?> 
 
   <main id="main">
 
@@ -51,7 +51,7 @@
 
         <h2>Projects</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li>Projects</li>
         </ol>
 
@@ -66,157 +66,314 @@
 
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-remodeling">Remodeling</li>
-            <li data-filter=".filter-construction">Construction</li>
-            <li data-filter=".filter-repairs">Repairs</li>
-            <li data-filter=".filter-design">Design</li>
+            <li data-filter=".filter-Apartments">Apratments</li>
+            <li data-filter=".filter-Banglose">Banglose</li>
+            <li data-filter=".filter-commercial">Commercial</li>
+            <li data-filter=".filter-industrial">Industrial </li>
+            <li data-filter=".filter-other">Others</li>
           </ul><!-- End Projects Filters -->
 
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/other2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Maharaj</h4>
+                  <p></p>
+                  <a href="assets/img/projects/other2.jpg" title="Maharaj" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/other1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Mandir</h4>
+                  <p></p>
+                  <a href="assets/img/projects/other1.png" title="Temple" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Apartments">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/apart1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Millenium Plaza</h4>
+                  <p> </p>
+                  <a href="assets/img/projects/apart1.png" title="Millenium Plaza" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Apartments">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/apart2.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Arch Dosti</h4>
+                  <p> </p>
+                  <a href="assets/img/projects/apart2.png" title="Arch Dosti" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Apartments">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/apart3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Naik Apartment</h4>
+                  <p> </p>
+                  <a href="assets/img/projects/apart3.jpg" title="Naik Apartment" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Banglose">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/Bangalo1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Samadhan Residence-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/Bangalo1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Apartments">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/apart4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Subhlabh Heights-</h4>
+                  <p> </p>
+                  <a href="assets/img/projects/apart4.jpg" title="Subhlabh Heights-" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Banglose">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/Bangalo2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-2.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Banglose 2</h4>
+                  <p></p>
+                  <a href="assets/img/projects/Bangalo2.jpg" title="Banglose 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Krishna Mega Mall & Multiplex-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial3.jpg" title="Krishna Mega Mall & Multiplex-" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Krishna Square-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial2.jpg" title="Krishna Square-" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Krishna Business Centre-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial4.jpg" title="Krishna Business Centre " data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Millenium Plaza-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial1.jpg" title="Millenium Plaza-" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial5.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Hotel Tuljabhavani-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial5.jpg" title="Hotel Tuljabhavani-" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-commercial">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/commercial6.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Happy Homes-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/commercial6.jpg" title="Happy Homes" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div><!-- End Projects Item -->
+            </div>
+            <!-- End Projects Item  -->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Banglose">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Bangalo3.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Kakani Bungalow-</h4>
+                  <p></p>
+                  <a href="assets/img/projects/Bangalo3.jpg" title="Kakani Bungalow" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Vikram Tea Processor Pvt. Ltd</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial1.jpg" title="Vikram Tea Processor Pvt. Ltd" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial2.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Varroc Engineering Ltd Plant I</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial2.png" title="Varroc Engineering Ltd Plant I" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial3.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Parason Machinery (I) Pvt. Ltd.</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial3.jpg" title="Parason Machinery (I) Pvt. Ltd." data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial41.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Forbes & Company Ltd.</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial41.jpg" title="Forbes & Company Ltd." data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial51.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Rathi steel n metal Pvt Ltd, Icon Steel</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial51.png" title="Rathi steel n metal Pvt Ltd, Icon Steel" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial52.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Rathi steel n metal Pvt Ltd, Icon Steel</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial52.png" title="Rathi steel n metal Pvt Ltd, Icon Steel" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial61.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Kalika Steel Alloys Pvt. Ltd. </h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial61.jpg" title="Kalika Steel Alloys Pvt. Ltd. " data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial62.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Kalika Steel Alloys Pvt. Ltd. </h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial62.jpg" title="Kalika Steel Alloys Pvt. Ltd. " data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial72.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Jalna Siddhivinayak Alloys Pvt. Ltd</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial72.jpg" title="Jalna Siddhivinayak Alloys Pvt. Ltd" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-industrial">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/industrial71.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Jalna Siddhivinayak Alloys Pvt. Ltd</h4>
+                  <p></p>
+                  <a href="assets/img/projects/industrial71.jpg" title="Jalna Siddhivinayak Alloys Pvt. Ltd" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/other3.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Entrance Gate</h4>
+                  <p></p>
+                  <a href="assets/img/projects/other3.png" title="Entrance Gate" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/other5.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Foot Over Bridge </h4>
+                  <p></p>
+                  <a href="assets/img/projects/other5.png" title="Foot Over Bridge " data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            
 
           </div><!-- End Projects Container -->
 
